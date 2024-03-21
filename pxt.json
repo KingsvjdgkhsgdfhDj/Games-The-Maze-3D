@@ -1,5 +1,6 @@
 {
     "name": "Games-The Maze     3D",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
